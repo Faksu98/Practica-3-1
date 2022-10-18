@@ -10,7 +10,7 @@ class Libro {
         if(this.Estado){
             console.log ("Soy nuevo y estoy fresco cual lechuga");
         }else{
-            console.log ("Ya estoy usando, pero no me abandones :,c");
+            console.log ("Ya estoy usado, pero no me abandones :,c");
         }
     }
 
